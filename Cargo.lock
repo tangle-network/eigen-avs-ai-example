@@ -4424,7 +4424,7 @@ dependencies = [
 name = "eigen-ai-avs-example"
 version = "0.1.0"
 dependencies = [
- "base64 0.21.7",
+ "base64 0.22.1",
  "blueprint-sdk",
  "chrono",
  "octocrab",
