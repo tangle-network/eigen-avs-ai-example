@@ -1,0 +1,2 @@
+eigenlayer-middleware/=dependencies/eigenlayer-middleware
+forge-std/=dependencies/forge-std
